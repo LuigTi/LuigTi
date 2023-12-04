@@ -15,7 +15,6 @@ Some Projects Related to Deep Learning, Natural Language Processing, and Evoluti
 
 [![Neural Augmentation for Text Classification](https://img.shields.io/badge/Neural%20Augmentation%20for%20Text%20Classification-%2300cc99.svg?style=for-the-badge)](https://github.com/tommasomncttn/Neural-Augmentation-for-Text-Classification)
 [![NAS4CNN: Neural Architecture Search For Image Classification](https://img.shields.io/badge/NAS4CNN-%23ff6600.svg?style=for-the-badge)](https://github.com/tommasomncttn/NAS4CNN)
-[![Converation agent for recipe selection](https://img.shields.io/badge/VINCENZO-%23ff6600.svg?style=for-the-badge)]([https://github.com/tommasomncttn/NAS4CNN](https://github.com/LuigTi/VINCENZO-converation-agent-for-recipe-selection)
-
+[![Converation agent for recipe selection](https://img.shields.io/badge/VINCENZO-%23ff6600.svg?style=for-the-badge)]([https://github.com/LuigTi/VINCENZO-converation-agent-for-recipe-selection)
 
 </div>
